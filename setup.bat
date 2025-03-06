@@ -1,0 +1,1 @@
+pyinstaller --onefile base64_decoder.py
